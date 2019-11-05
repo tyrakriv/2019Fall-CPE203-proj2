@@ -1,3 +1,3 @@
-#Virtual World Project
-#CSC 203, Fall '19
-#Prof. Humer
+Virtual World Project
+CSC 203, Fall '19
+Prof. Humer
